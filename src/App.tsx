@@ -213,7 +213,7 @@ export default function App() {
           className="bg-[#F0F0ED] border-4 border-white p-8 md:p-16 max-w-lg w-full shadow-[20px_20px_0px_0px_rgba(255,255,255,0.05)]"
         >
           <div className="flex flex-col items-center mb-16 underline decoration-4 underline-offset-8">
-            <div className="w-20 h-20 bg-[#141414] text-white flex items-center justify-center font-bold text-4xl mb-6">S-ATS</div>
+            <div className="w-20 h-20 bg-[#141414] text-white flex items-center justify-center font-bold text-4xl mb-6">S</div>
             <h1 className="font-serif font-black text-4xl md:text-6xl italic tracking-tighter uppercase leading-none">SmartATS</h1>
             <p className="font-mono text-[10px] uppercase tracking-[0.4em] opacity-40 mt-6 font-black">Authorized Personnel Only</p>
           </div>
