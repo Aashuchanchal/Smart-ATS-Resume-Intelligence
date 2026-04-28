@@ -1,0 +1,6 @@
+{
+  "name": "SmartATS: Resume Intelligence",
+  "description": "An AI-powered Applicant Tracking System that automatically filters resumes into Accepted, Rejected, and Review categories based on job description fit using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
